@@ -5,7 +5,6 @@ Projet **Data Analyst** : audit qualité → nettoyage → feature engineering �
 ## Livrables
 - **Notebook d'analyse** : [`notebook/AfriMarket_Analyse_Strategique.ipynb`](notebook/AfriMarket_Analyse_Strategique.ipynb)
 - **Rapport complet** : [`reports/Rapport_AfriMarket.pdf`](reports/Rapport_AfriMarket.pdf)
-- **Résumé exécutif** : [`reports/Resume_Executif_AfriMarket.pdf`](reports/Resume_Executif_AfriMarket.pdf)
 - **Présentation** : [`presentation/AfriMarket_Presentation.pdf`](presentation/AfriMarket_Presentation.pdf)
 - **Dashboard Excel interactif** : [`excel/AfriMarket_Dashboard.xlsx`](excel/AfriMarket_Dashboard.xlsx)
 
