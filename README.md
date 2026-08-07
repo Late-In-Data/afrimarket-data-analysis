@@ -66,7 +66,7 @@ Le projet couvre :
 - **Taux de retour** : 8,17%
 
 ### Marketing
-- **ROI = (CA – coût marketing) / coût marketing**
+- **ROI = (CA - coût marketing) / coût marketing**
   - Email : ROI ≈ 231,46
   - Google Ads : ROI ≈ 50,03
   - Instagram Ads : ROI ≈ 24,64
