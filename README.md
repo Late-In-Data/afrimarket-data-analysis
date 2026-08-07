@@ -1,4 +1,4 @@
-# AfriMarket — Analyse stratégique (E-commerce, Marketing & Clients)
+# AfriMarket - Analyse stratégique (E-commerce, Marketing & Clients)
 
 Projet **Data Analyst** : audit qualité → nettoyage → feature engineering → KPIs → analyses business (catégories, villes, marketing, clients) → recommandations actionnables.
 
@@ -91,15 +91,15 @@ Le poids économique de chaque segment compte davantage que son effectif :
 | À réactiver | 597 (35,0%) | 9,1% |
 | Occasionnels | 312 (18,3%) | 4,2% |
 
-Les 475 VIP portent près des trois quarts du CA — bien davantage que le segment le plus nombreux ("À réactiver").
+Les 475 VIP portent près des trois quarts du CA, bien davantage que le segment le plus nombreux ("À réactiver").
 
 ## Méthodologie & hypothèses
 - Les KPIs et analyses sont réalisés sur un dataset nettoyé `df_clean`.
-- Le **profit net estimé** est un indicateur de contribution : **CA – coûts marketing – coûts logistique**.
-- Chaque anomalie de données (prix négatifs, remises négatives, quantités nulles) a été corrigée ou supprimée selon que sa valeur absolue est statistiquement plausible ou non — voir le notebook pour le détail du diagnostic.
+- Le **profit net estimé** est un indicateur de contribution : **CA - coûts marketing - coûts logistique**.
+- Chaque anomalie de données (prix négatifs, remises négatives, quantités nulles) a été corrigée ou supprimée selon que sa valeur absolue est statistiquement plausible ou non ( voir le notebook pour le détail du diagnostic).
 
 ## Dashboard Excel
-`excel/AfriMarket_Dashboard.xlsx` propose une exploration interactive des données : listes déroulantes (ville, catégorie, canal marketing), cartes KPI, graphiques par catégorie/ville/canal, évolution mensuelle, segmentation clients, top 10 clients et courbe de Pareto — tout est piloté par formules, sans macro requise pour la navigation.
+`excel/AfriMarket_Dashboard.xlsx` propose une exploration interactive des données : listes déroulantes (ville, catégorie, canal marketing), cartes KPI, graphiques par catégorie/ville/canal, évolution mensuelle, segmentation clients, top 10 clients et courbe de Pareto.
 
 ![Dashboard Excel](excel/Capture_dashboard_excel.png)
 
