@@ -56,6 +56,9 @@ Le projet couvre :
 - **Recommandations** business
 
 ## Résultats clés
+
+![Performance par catégorie](notebook/figures/01_performance_categorie.png)
+
 - **Commandes** : 8 814
 - **Clients uniques** : 1 719
 - **CA total** : 2 384 892,57
@@ -80,6 +83,8 @@ Le projet couvre :
 ### Villes
 - **Douala : annulation ≈ 12,94%** → alerte opérationnelle (audit logistique/paiement/statuts)
 
+![Taux d'annulation par ville](notebook/figures/02_taux_annulation_ville.png)
+
 ### Segmentation clients (RFM)
 Le poids économique de chaque segment compte davantage que son effectif :
 
@@ -91,6 +96,8 @@ Le poids économique de chaque segment compte davantage que son effectif :
 | Occasionnels | 312 (18,3%) | 4,2% |
 
 Les 475 VIP portent près des trois quarts du CA, bien davantage que le segment le plus nombreux ("À réactiver").
+
+![Segmentation clients](notebook/figures/03_segmentation_clients.png)
 
 ## Méthodologie & hypothèses
 - Les KPIs et analyses sont réalisés sur un dataset nettoyé `df_clean`.
